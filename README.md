@@ -1,6 +1,5 @@
-# We're Not Really Strangers (WNRS) Online
+# We're Not Really Strangers 
 
-Play WNRS online in [jonathan-lph.github.io/wnrs](https://jonathan-lph.github.io/wnrs). No ads. No profits. No downloads.
 
 ### Available Decks (All available!)
 
@@ -45,12 +44,5 @@ Thanks to various sources to make this possible:
 - [u/songbirdly](https://www.reddit.com/user/songbirdly) for the Cann Expansion
 
 I do not own any of the resources above. If you suspect this is copyright infrigment and wish to have this take down, please contact me and I will respond asap.
-
-### Contact
-
-[Reddit thread](https://www.reddit.com/r/cardgames/comments/nf47ps/were_not_really_strangers_online/?utm_source=share&utm_medium=web2x&context=3)
-
-For bugs and error, please post a new Issue in Github. 
-
-For general cases such as suggestions and updates, please send an email to hhkk0720@hotmail.com.
+.
 
